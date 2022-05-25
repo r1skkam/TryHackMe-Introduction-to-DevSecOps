@@ -29,3 +29,4 @@
 [3 DevSecOps success stories | CSO Online](https://www.csoonline.com/article/3439737/3-devsecops-success-stories.html)
 
 ## Task 7 Exercise: Fuel Trouble
+![TryHackMe | Introduction to DevSecOps](https://github.com/r1skkam/TryHackMe-Introduction-to-DevSecOps/blob/main/Screenshot%202022-05-25%20224006.png)
